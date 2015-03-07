@@ -5,7 +5,7 @@ Usage of BuildCreator.ps1:
 
 [array]$MapItems = @("Path\ToYourFirstProject","Path\YourLibrary")
 
-[array]$SolutionItems = @("Path/ToYourFirstSln/YourProject1.sln","Path/ToYourSecondSln/YourProject1.sln")
+[array]$SolutionItems = @("Path/ToYourFirstSln/YourProject1.sln","Path/ToYourSecondSln/YourProject2.sln")
 
 $TeamProject = "Your-Team-Project-Name"
 
